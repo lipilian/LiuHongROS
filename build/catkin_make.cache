@@ -1,0 +1,2 @@
+beginner_tutorials
+-DCATKIN_DEVEL_PREFIX=/home/lipilian/LiuHongROS/devel -DCMAKE_INSTALL_PREFIX=/home/lipilian/LiuHongROS/install -G Unix Makefiles
